@@ -89,7 +89,7 @@ var config = {
         {
             id: 'Amsterdam',
             title: 'September 28, 2019 - Amsterdam',
-            image: './images/fronteers.png',
+            image: '/images/fronteers.png',
 
             description: 'Anjana travelled with the field kit to Amsterdam to attend the Mozilla TechSpeakers meetup and speak at the Fronteers Conference. She delivered a show stopping presentation on Lambda calculus before jetsetting to Lagos, Nigeria for the Concatenate Conference',
             location: {
@@ -131,7 +131,7 @@ var config = {
         {
             id: 'Lagos',
             title: 'October 9, 2019 - Lagos, Nigeria',
-            image: './images/Concatenate.png',
+            image: '/images/Concatenate.png',
 
             description: 'Quick stop over in Lagos, Nigeria for Concatenate - A free conference for African developers.',
             location: {
@@ -171,7 +171,7 @@ var config = {
         {
             id: 'Nairobi',
             title: 'October 15, 2019 - Nairobi, Kenya',
-            image: './images/fronteers.png',
+            image: '/images/fronteers.png',
 
             description: "Can't stop, won't stop! Anjana delivered a presentation to another Concatenate conference, this time in Nairobi, Kenya!",
             location: {
@@ -212,7 +212,7 @@ var config = {
         {
             id: 'Kinshasa',
             title: 'October 17, 2019 - Kinshasa, Democratic Republic of Congo',
-            image: './images/Kinshasa.png',
+            image: '/images/Kinshasa.png',
 
             description: "Anjana delivered the field kit and training sessions to the Democratic Republic of Congo in order to assist community partners HOT/OSM DRC and PATH in their work mapping the Ebola response. In regions such as the DRC, wifi capabilities are not always guarenteed and this lack of connectivity can be crippling as aid workers continue to fight both the Ebola virus and the outbreaks of violence in the region. Tools like the Atlas field kit, which allow aid workers to access location services offline, are critical for helping to support the response.",
             location: {
@@ -252,7 +252,7 @@ var config = {
         {
             id: 'Abidjan',
             title: "November 20, 2019 - Abidjan, Cote d'Ivoire",
-            image: './images/Olaf-Ve.png',
+            image: '/images/Olaf-Ve.png',
 
             description: "Olaf Veerman of Development Seed brought the field kit to Abidjan to deliver a training to disaster risk management and mapping experts in the region. Thanks Olaf for helping to demonstrate the power of the Atlas field kit as an offline decision support tool.",
             location: {
@@ -268,7 +268,8 @@ var config = {
         {
             id: 'Ending',
             title: 'Where in the world will the Atlas field kit go next?',
-            description: ' #Followthefieldkit around the globe to see where Mapbox is enabling location data.',
+            image: '/images/Development_seed.jpeg',
+            description: ' #Followthefieldkit around the globe to see where and how Mapbox is enabling location data.',
             location: {
               center: [-29.88281, 26.74996],
               zoom: 1.5,
