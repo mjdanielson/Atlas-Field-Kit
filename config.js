@@ -264,6 +264,22 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+        
+       {
+            id: 'Ending 1',
+            title: "Where in the world will the Atlas field kit go next?",
+            image: '/images/Development_seed.jpegg',
+
+            description: "#Followthefieldkit around the globe to see where and how Mapbox is enabling location data.",
+            location: {
+                center:  [-29.88281, 26.74996],
+                zoom: 1.5,
+                pitch: 0,
+                bearing: 0
+            },
+            onChapterEnter: [],
+            onChapterExit: []
+        },
 
         {
             id: 'Ending',
