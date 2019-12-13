@@ -48,7 +48,7 @@ var config = {
         {
             id: 'gov summit',
             title: 'March 26, 2019 - #GovSummit',
-            image: './images/GovSummit.jpg',
+            image: '/images/GovSummit.jpg',
 
             description: 'Understanding "the where" in a disaster zone is crucial to effecively developing and deploying a timely response. <br> - Where is the extent of the damage? <br> - Where do we establish command posts? <br> - Where are the safe zones? <br> - Where are the supplies located? <br> - Where do we send rescue teams? <br> During the GovSummit in DC Mapboxers showed off how the field kit enables users to quickly establish a GIS command center to understand "the where" in a disaster zone.',
             location: {
